@@ -1,0 +1,64 @@
+.main_menu{
+	background: red;
+	width: 100%;
+	height: 100%;
+}
+.sub_one{
+background: blue;
+text-align: center;
+width: 100%;
+height: 80px;
+}
+.sub_one h1{
+	padding-top: 20px;
+	color: white;
+}
+.sub_two ul{
+	display: inline-flex;
+	margin:20px;
+
+}
+.sub_two li{
+	margin: 0 40px;
+	cursor: pointer;
+	height: 30px;
+}
+.sub_three{
+	width: 100%;
+	height: 75%;
+	position: absolute;
+	background: green;
+}
+.sub_three img{
+	float: left;
+	height: 50%;
+	width: 50%;
+	margin: 20px;
+	margin-left: 80px;
+
+
+}
+#sign_btn{
+	margin-top: 10px;
+	background-color: #8A2BE2;
+	padding: 5px;
+	color: white;
+	width: 40%;
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+}
+.myform{
+	float: right;
+	margin-right: 130px;
+	border:4px solid;
+	padding: 6px;
+	padding-left: 40px;
+	padding-right: 40px;
+}
+.header{
+	color: #fff;
+}
+.sign_in{
+	color: #fff;
+}

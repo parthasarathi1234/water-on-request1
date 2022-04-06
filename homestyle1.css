@@ -1,0 +1,94 @@
+.main_menu{
+	background: red;
+	width: 100%;
+	height: 100%;
+}
+.sub_one{
+background: #47d147;
+text-align: center;
+height: 80px;
+}
+.sub_one h1{
+	padding-top: 20px;
+	color: white;
+}
+.sub_two ul{
+	display: inline-flex;
+	margin:20px;
+
+}
+.sub_two li{
+	margin: 0 40px;
+	cursor: pointer;
+	height: 20px;
+}
+
+.log_out{
+	
+	margin-left: 1150px;
+	color: #fff;
+	position: absolute;
+	text-decoration: none;
+	border: 2px solid transparent;
+	background-image: linear-gradient(#42455a,#42455a),
+	radial-gradient(circle at top left,#fd00da,#19d7f8);
+	border-radius: 30px;
+	background-origin:border-box;
+	background-clip: content-box,border-box;
+	padding: 5px;
+
+}
+.reque{
+	float: right;
+	color: green;
+	margin-left: 1050px;
+	color: #fff;
+	position: absolute;
+	text-decoration: none;
+	border: 2px solid transparent;
+	background-image: linear-gradient(#42455a,#42455a),
+	radial-gradient(circle at top left,#fd00da,#19d7f8);
+	border-radius: 30px;
+	background-origin:border-box;
+	background-clip: content-box,border-box;
+	padding: 5px;
+}
+.sub_three{
+	background: #cce6ff;
+	width: 100%;
+	height: 90%;
+	font-size: 30px;
+}
+
+.content{
+	float: left;
+	margin:10px;
+	width: 50%;
+	background: green;
+}
+.content h2{
+	font-size: 30px;
+	position: relative;
+	text-align: center;
+}
+.content p{
+	width: 650px;
+}
+.image{
+	
+
+}
+.image img{
+	width: 600px;
+	height: 400px;
+	margin:20px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+
+}
+.user{
+	color: white;
+	margin-left: 150px;
+}
+
+
